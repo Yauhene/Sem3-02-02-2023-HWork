@@ -23,3 +23,6 @@ if(int.TryParse(Console.ReadLine(), out int number))
 }
 else Console.WriteLine*("Введено не целое число");
 
+int[] digArr=new int[5];
+
+
